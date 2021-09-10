@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  xwartu
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
