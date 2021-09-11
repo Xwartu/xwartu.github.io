@@ -27,6 +27,8 @@ All I could think of conequently while I worked to just get it "done" was how ti
 [GitHub Repository](https://github.com/Xwartu/04-2D-Platformer)
 
 ### Images:
+
+To be added at a later date.
 <br>
 
 [Back to Home Page](./)

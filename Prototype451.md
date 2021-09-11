@@ -26,7 +26,8 @@ I learned a lot about making code legible and readible to others. Programming fo
 [GitHub Repository](https://github.com/njager/WS0_GameJam)
 
 ### Images:
-[451, In Game Image](./assets/images/prototype451.png)
+
+![451, In Game Image](./assets/images/prototype451.png)
 <br>
 
 [Back to Home Page](./)

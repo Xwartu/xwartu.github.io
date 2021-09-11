@@ -3,7 +3,7 @@ layout: default
 ---
 # Josh Tonner
 
-[Yes, me](./assets/images/me.png "Yes that's me, with my sister.")
+![Yes, me](./assets/images/me.png "Yes that's me, with my sister.")
 
 <br>
 <br>
