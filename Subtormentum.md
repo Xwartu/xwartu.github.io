@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Subtormentum
-permalink: /subtormentum/
 ---
 
 ## Welcome to another page
