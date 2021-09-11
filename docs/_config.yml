@@ -29,9 +29,12 @@ url: "https://xwartu.github.io" # the base hostname & protocol for your site, e.
 twitter_username: jekyllrb
 github_username:  xwartu
 
+
+
 # Build settings
-theme: jekyll-theme-slate
+remote_theme: jekyll-theme-slate@v0.2.0
 plugins:
+  - jekll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
