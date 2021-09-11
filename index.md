@@ -6,7 +6,7 @@ layout: default
 ## Subtormentum
 [Subtormentum Project](/assets/images/subtormentum.png)
 
-[Link to "Subtormentum Project"](https://jtonner.com/subtormentum/ "Subtormentum Project").
+[Link to "Subtormentum Project"](./subtormentum.html) "Subtormentum Project").
 ## King's Landing
 [King's Land Project](/assets/images/king_landing.png)
 
