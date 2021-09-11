@@ -34,7 +34,7 @@ github_username:  xwartu
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
-  - jekll-remote-theme
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
