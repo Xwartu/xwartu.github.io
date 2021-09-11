@@ -1,9 +1,8 @@
 ---
 layout: default
-title: About
 ---
 
-## About Section
+## About Me:
 
 <head>
 I know both good coding techniques and design aesthetics. I’m great at taking in new information and changing accordingly, and am a great team player. Understanding systems and then being able to use them is a speciality, and something I’ve always been able to do. 
@@ -17,4 +16,4 @@ I am a Game Design Major with a Specialization in Programming poursuing a Techni
 On a personal note, I am a fan of Destiny 2 by Bungie Interactive, a PlayStation fanboy at heart, and love a good book. A series I currently recommend is Red Rising by Pierce Brown.
 </head>
 
-[Back](./)
+[Back to Home Page](./)

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: King's Landing
 ---
+
+# King's Landing:
 
 ## Project Summary:
 <p>

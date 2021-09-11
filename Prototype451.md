@@ -2,11 +2,21 @@
 layout: default
 title: "Prototype: 451"
 ---
+# Prototype 451:
+
 
 ## Project Summary
 
-<head>
+<p>
 I know both good coding techniques and design aesthetics. I’m great at taking in new information and changing accordingly, and am a great team player. Understanding systems and then being able to use them is a speciality, and something I’ve always been able to do. 
-</head>
+</p>
 
-[back](./)
+## Development Process:
+
+## Lessons Learned:
+
+# Repository Link:
+
+# Images:
+
+[Back to Home Page](./)
