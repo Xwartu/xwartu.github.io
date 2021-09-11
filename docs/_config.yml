@@ -57,4 +57,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
