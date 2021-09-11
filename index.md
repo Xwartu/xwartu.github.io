@@ -17,7 +17,7 @@ layout: default
 ## Ourghs Vs. Dwarves
 ![G300 Final](/assets/images/G300.png)
 
-[Link to "Ourghs Vs. Dwarves" Project](https://jtonner.com/g300/ "Ourghs Vs. Dwarves Project").
+[Link to "Ourghs Vs. Dwarves" Project](./G300.html "Ourghs Vs. Dwarves Project").
 ## Prototype: 451
 ![Prototype: 451](/assets/images/prototype.png)
 
