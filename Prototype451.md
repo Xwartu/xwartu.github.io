@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prototype: 451
+title: "Prototype: 451"
 permalink: /prototype451/
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-# Projects:
+# **Projects:**
 
 ## Subtormentum
-![Subtormentum Project](/assets/images/subtormentum.png)\
+![Subtormentum Project](/assets/images/subtormentum.png)
 
 [Link to Project](https://jtonner.com/subtormentum/ "Subtormentum Project").
 ## King's Landing
