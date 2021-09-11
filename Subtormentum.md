@@ -2,11 +2,23 @@
 layout: default
 title: Subtormentum
 ---
+# Subtormentum
 
-## Welcome to another page
+## Project Summary 
+<p>
+C220 Game Technology Final Project, made in the game engine Godot.
+</p>
+<p>
+Inspiration by Space Shooters like Galaga, but in deep ocean water instead of space. We also took inspiration from the third project in the class, being a much baser attempt at creating a space shooter. 
+</p>
 
-<head>
-I know both good coding techniques and design aesthetics. I’m great at taking in new information and changing accordingly, and am a great team player. Understanding systems and then being able to use them is a speciality, and something I’ve always been able to do. 
-</head>
+## Development Process:
 
-[back](./)
+## Lessons Learned:
+
+## Repository Link:
+[Github Repository](https://github.com/Xwartu/Final-Project)
+
+## Images:
+
+[Back to Home Page](./)
