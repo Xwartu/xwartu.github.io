@@ -5,7 +5,7 @@ layout: default
 
 ### Project Summary
 
-A one week game jam for MSCH-C400 Production II, made by Workshop Group 5, in Unity 2020.3.16f
+A one week game jam for MSCH-G400 Production II, made by Workshop Group 5, in Unity 2020.3.16f
 <br>
 Inspired by Fahrenheit 451 by Ray Bradbury
 
@@ -26,7 +26,7 @@ I learned a lot about making code legible and readible to others. Programming fo
 [GitHub Repository](https://github.com/njager/WS0_GameJam)
 
 ### Images:
-[451, In Game Image](/assets/images/prototype451.png)
+[451, In Game Image](./assets/images/prototype451.png)
 <br>
 
 [Back to Home Page](./)

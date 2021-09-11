@@ -23,4 +23,8 @@ layout: default
 
 [Link to "Prototype: 451" Project](./Prototype451.html "Prototype: 451").
 
+# About the Website:
+
+Made On Github Pages through Jekyll, Markdown/HTML and Ruby
+
 
