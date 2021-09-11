@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Creator
+title: Joshua Tonner | Programmar 
 email: joshua.tonner@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -32,7 +32,7 @@ github_username:  xwartu
 
 
 # Build settings
-remote_theme: jekyll-theme-slate@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekll-remote-theme
   - jekyll-feed
