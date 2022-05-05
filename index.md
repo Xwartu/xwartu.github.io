@@ -4,7 +4,7 @@ layout: default
 # About Me:
 [Link to About Page](./about.html)
 
-#Projects:
+# Projects:
 
 ### Erin and the Otherworld:
 [Link to "Erin and the Otherworld Project"](./Otherworld.html "Otherworld Project").
