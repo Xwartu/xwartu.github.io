@@ -27,15 +27,15 @@ I also helped split duties between the two of us, and made sure to help across t
 ### Lessons Learned
 <p>
 The main things learned from this project so far have been:
-
+<br>
 1. The importance of communication.
-
+<br>
 2. The need for proper mental and physical health stability on a longterm project.
-
+<br>
 3. Giving the right effort and resources to the proper element, and determining that as can be best surmised at a given time. 
-
+<br>
 4. C# knowledge involving assembly definitions, IEnumerators on a deeper level, iterative loops, proper splitting up of ideas into a more rigid class structure, and class cross talk between scripts. 
-
+<br>
 5. And last but not least, maintaining an understanding of one's own codebase from using comments, summaries, debug statements, commit updates, and personal notes. All are necessary for further memory of what was properly being worked on last for a given element in the codebase. 
 </p>
 
