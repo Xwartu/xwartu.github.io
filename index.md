@@ -10,6 +10,7 @@ layout: default
 [Link to "Erin and the Otherworld Project"](./Otherworld.html "Otherworld Project").
 
 ### Summary:
+A Roguelite Deckbuilder from an Indie Development studio out of Indiana University. Releasing 2023. 
 
 ### Subtormentum
 ![Subtormentum Project](/assets/images/Subtormentum.png)
@@ -17,7 +18,7 @@ layout: default
 [Link to "Subtormentum Project"](./Subtormentum.html "Subtormentum Project").
 
 ### Summary:
-This is my first game jam project, where I made most of the scripting, art, and did most of the asset implementation in the game engine Godot. The main theme was "Under Pressure" which we applied to Latin to get Subtormentum. It was in a classroom environment so the work was mandatory and as such I contributed more than my peers purposefully for that reason. 
+This is my first game jam project, where I created scripting, art, and asset implementation in the game engine Godot. The main theme was "Under Pressure" which we applied from Latin to get Subtormentum.
 
 
 ### Prototype: 451
@@ -26,14 +27,14 @@ This is my first game jam project, where I made most of the scripting, art, and 
 [Link to "Prototype: 451" Project](./Prototype451.html "Prototype: 451").
 
 ### Summary:
-This is a small title made from my current team around the concept of Fahrenheit 451 but you are a detective who hunts down the book owners. I was the primary programmer and asset implementer, and made the game in about a week's time.
+This is a small title made from my current team around the concept of Fahrenheit 451 but you are a detective who hunts down the book owners. I was the primary programmer and asset implementer, and made the game in about a week's time in a more long term style game jam.
 
 ### King's Landing
 ![King's Land Project](/assets/images/King_landing.png)
 [Link to "King's Landing" Project](./Kinglanding.html "King's Landing Project").
 
 ### Summary: 
-This is my solo 2D platformer game from a class early in my Game Design major program, which resulted is a very brief and simplistic 2D side scroller made in Godot. I'm particular proud of the main screen, which I made myself without any reference. 
+This is my solo 2D platformer game from a class early in my Game Design major program, which resulted is a very brief and simplistic 2D side scroller made in Godot. 
 
 ### Recycligear (Placeholder Name)
 [Link to "Recycligear" Project](./Recycligear.html "Recycligeart").
